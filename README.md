@@ -27,3 +27,11 @@ This is a simple **Weather Application** built using **Python** that fetches cur
    ```bash
    git clone https://github.com/Akashsanthosh001/Weather-app.git
    cd Weather-app
+
+2. Install the required packages:
+```bash
+pip install requests
+
+3. api_key = "487d31fc7233818d0dfae45f480b84a8"
+
+4. python weather.py
