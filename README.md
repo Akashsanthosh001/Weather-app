@@ -9,7 +9,6 @@ This is a simple **Weather Application** built using **Python** that fetches cur
 - **Python**
 - **Requests** library
 - **OpenWeatherMap API**
-- (Optional: Flask, if you used it for web interface)
 
 ---
 
