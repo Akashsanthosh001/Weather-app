@@ -32,6 +32,8 @@ This is a simple **Weather Application** built using **Python** that fetches cur
 ```bash
 pip install requests
 
+```
 3. api_key = "487d31fc7233818d0dfae45f480b84a8"
 
+```
 4. python weather.py
